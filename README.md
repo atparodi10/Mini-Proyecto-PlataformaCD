@@ -5,7 +5,7 @@ Descripción del proyecto
 El programa Gestión de Tareas es una aplicación de consola desarrollada en C# que permite al usuario registrar, visualizar y administrar sus tareas académicas o personales mediante una estructura de cola (Queue).
 El sistema utiliza un menú interactivo que facilita la gestión secuencial de las tareas pendientes, simulando una lista ordenada FIFO (First In, First Out), es decir, la primera tarea en entrar será la primera en realizarse.
 
-⚙️ Funcionalidades principales
+Funcionalidades principales
 
 El programa presenta un menú con las siguientes opciones:
 
