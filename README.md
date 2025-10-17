@@ -7,12 +7,12 @@ El sistema utiliza un menú interactivo que facilita la gestión secuencial de l
 
 Funcionalidades principales
 
-El programa presenta un menú con las siguientes opciones:
+    El programa presenta un menú con las siguientes opciones:
 
-Agregar Tarea
-Permite registrar una nueva tarea solicitando dos datos:
+    Agregar Tarea
+    Permite registrar una nueva tarea solicitando dos datos:
 
-Asignatura (solo letras y espacios)
+    Asignatura (solo letras y espacios)
 
 Descripción
     Cada tarea se agrega a la cola con un número de listado automático.
