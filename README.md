@@ -104,9 +104,9 @@ Interactuar con el menú mediante el teclado numérico.
 
 Autores
 
-José Alessandro Torres Parodi.
-Jonas Frank Ethelbert Hodgson Cajina.
-Alejandro Enrique Zeledón del Cid.
-Rommel Alexander Muñoz Guerrero.
+    José Alessandro Torres Parodi.
+    Jonas Frank Ethelbert Hodgson Cajina.
+    Alejandro Enrique Zeledón del Cid.
+    Rommel Alexander Muñoz Guerrero.
 
-Proyecto educativo desarrollado como práctica de programación en C#, orientado al uso de estructuras de datos y validación de entradas de usuario.
+    Proyecto educativo desarrollado como práctica de programación en C#, orientado al uso de estructuras de datos y validación de entradas de usuario.
