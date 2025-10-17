@@ -109,4 +109,4 @@ Autores
     Alejandro Enrique Zeledón del Cid.
     Rommel Alexander Muñoz Guerrero.
 
-Proyecto educativo desarrollado como práctica de programación en C#, orientado al uso de estructuras de datos y validación de entradas de usuario.
+Proyecto educativo desarrollado como práctica de programación en C#, orientado al uso de git hub.
